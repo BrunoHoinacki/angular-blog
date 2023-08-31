@@ -4,6 +4,7 @@
 }
 
 .container__small-card-content{
+  padding-top: 10px;
   display: flex;
   flex-direction: row;
 }
