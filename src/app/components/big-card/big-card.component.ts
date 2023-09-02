@@ -6,16 +6,19 @@ import { Component, Input, OnInit } from '@angular/core';
   styleUrls: ['./big-card.component.css']
 })
 export class BigCardComponent implements OnInit {
-  @Input()
-  photoCover:String=""
-  @Input()
-  cardTitle:String=""
-  @Input()
-  cardDescription:String=""
 
-  constructor(){}
+  @Input()
+  photoCover:string =""
+  @Input()
+  cardTitle:string= ""
+  @Input()
+  cardDescription:string =""
+  @Input()
+  Id:string="0"
 
-    ngOnInit(): void {
+  constructor() { }
 
-    }
+  ngOnInit(): void {
+  }
+
 }
