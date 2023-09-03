@@ -1,6 +1,11 @@
-# AngularBlog
+# MarvelBlog
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
+
+## Description
+
+The project is a SPA web site for example news with a marvel theme.
+we have a main area and in it we inject its components to build the web-site.
 
 ## Development server
 
