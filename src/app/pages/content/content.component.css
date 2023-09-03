@@ -19,9 +19,20 @@
 
 .content__description{
   margin-top: 15px;
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
 }
 
 .content__description > p{
   margin-top: 20px;
   color: rgb(164, 160, 160);
+}
+
+a{
+  border: solid 4px rgb(12, 7, 158);
+  background-color: aquamarine;
+  color: black;
+  border-radius: 5px;
 }
