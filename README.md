@@ -30,3 +30,11 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Prints to example
+
+<img src="/src/img-readme-git/home-page.png" alt="Home-page" width="800"/>
+<img src="/src/img-readme-git/content1-page.png" alt="Content1-page" width="800"/>
+<img src="/src/img-readme-git/content2-page.png" alt="Content2-page" width="800"/>
+<img src="/src/img-readme-git/content3-page.png" alt="content3-page" width="800"/>
+<img src="/src/img-readme-git/content4-page.png" alt="content4-page" width="800"/>
