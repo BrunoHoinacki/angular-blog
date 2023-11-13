@@ -1,40 +1,37 @@
-# MarvelBlog
+# Angular Blog
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
+Este é um projeto de blog desenvolvido usando Angular.
 
-## Description
+## Visite o Site
 
-The project is a SPA web site for example news with a marvel theme.
-we have a main area and in it we inject its components to build the web-site.
+O blog está hospedado na Vercel. Você pode acessá-lo [aqui](https://angular-blog-three-kappa.vercel.app/).
 
-## Development server
+## Instalação
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Certifique-se de ter o Angular CLI instalado globalmente. Se não tiver, você pode instalá-lo usando o seguinte comando:
 
-## Code scaffolding
+```bash
+npm install -g @angular/cli
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Em seguida, clone o repositório e instale as dependências:
 
-## Build
+git clone https://github.com/BrunoHoinacki/angular-blog.git
+cd angular-blog
+npm install
+``` 
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Executando o Projeto
 
-## Running unit tests
+Use o seguinte comando para iniciar o servidor de desenvolvimento:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+``` ng serve``` 
 
-## Running end-to-end tests
+Abra seu navegador e vá para http://localhost:4200/. O aplicativo será recarregado automaticamente se você fizer alterações no código-fonte.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Contribuindo
 
-## Further help
+Sinta-se à vontade para contribuir para este projeto. Envie suas sugestões, relatórios de bugs ou faça um fork e crie uma solicitação de pull.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Licença
 
-## Prints to example
-
-<img src="/src/img-readme-git/home-page.png" alt="Home-page" width="800"/>
-<img src="/src/img-readme-git/content1-page.png" alt="Content1-page" width="800"/>
-<img src="/src/img-readme-git/content2-page.png" alt="Content2-page" width="800"/>
-<img src="/src/img-readme-git/content3-page.png" alt="content3-page" width="800"/>
-<img src="/src/img-readme-git/content4-page.png" alt="content4-page" width="800"/>
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
