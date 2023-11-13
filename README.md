@@ -12,9 +12,9 @@ Certifique-se de ter o Angular CLI instalado globalmente. Se não tiver, você p
 
 ```bash
 npm install -g @angular/cli
-
+```
 Em seguida, clone o repositório e instale as dependências:
-
+```
 git clone https://github.com/BrunoHoinacki/angular-blog.git
 cd angular-blog
 npm install
